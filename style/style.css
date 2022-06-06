@@ -1,0 +1,58 @@
+body{
+    background-image: url(_RDX0768.jpg);
+  background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+
+
+}
+
+nav{
+    display: flex;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 500px;
+    width: 100%;
+    margin-top: 35px;
+    
+    
+}
+li{
+    list-style: none;
+}
+.logo{
+    margin-left: 10px;
+    
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+li:hover{
+    background-color: blueviolet;
+}
+p{
+    display: flex;
+    
+    height: 30vh;
+
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+}
+
+.one{
+   
+
+    margin-left: 750px;
+
+}
+.one:hover{
+    background-color: aqua;
+}
